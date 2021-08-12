@@ -1,8 +1,4 @@
-# P-Div
+# Lee et al. 2021
 
-Chapter 3 Predator Diversity Experiments
-Check Base Data Worksheet for experimental details
+Data and Code for manuscript entitled "Predator Niche Overlap Predicts Effects on Aphid Vectors and a Vector-borne Virus"
 
-Need to fully organize, and update scripts for new file structure.
-
-Video Data added and organized 
